@@ -1,13 +1,13 @@
 ############################# Default configuration ########################
-baseURL = "http://example.org/"
-title = "Small Apps | App Landing Template"
+baseURL = "http://docs.improving.app/"
+title = "improving.app | Fully functional demonstration application"
 theme = "small-apps-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["french"] # desable language from here
 
 ################################### Plugins #################################
 # CSS Plugins
@@ -176,12 +176,12 @@ logo = "images/logo.png"
 logo_light = "images/logo-alt.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Documentation For the "
+author = "The improving.app Team"
 # contact info
-address = "9567 Turner Trace Apt. <br/> 466 North Willie, BC C3G8A4"
+address = ""
 mobile = "+211234565523"
-email = "info@smallapps.com"
+email = "info@yoppworks.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -204,15 +204,15 @@ map_marker = "images/marker.png"
 ########################### social icon ############################
 [[params.social]]
 icon = "tf-ion-social-facebook"
-link = "https://facebook.com/themefisher"
+link = "https://facebook.com/Yoppworks"
 
 [[params.social]]
 icon = "tf-ion-social-twitter"
-link = "https://twitter.com/themefisher"
+link = "https://twitter.com/yoppworks"
 
 [[params.social]]
-icon = "tf-ion-social-instagram"
-link = "https://instagram.com/themefisher"
+icon = "tf-ion-social-linkedIn"
+link = "https://linkedin.com/yoppworks"
 
 
 ################################### English language #####################################
